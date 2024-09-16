@@ -73,7 +73,7 @@
   background-color: #0056b3; /* Darker shade on hover */
 }
 
-.meal-details {
+/* .meal-details {
   position: fixed;
   top: 0;
   left: 0;
@@ -83,10 +83,10 @@
   overflow: auto;
   padding: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-}
+} */
 
 .meal-details {
-  position: fixed;
+  position: absolute;
   top: 50px;
   left: 50px;
   width: 70%;
