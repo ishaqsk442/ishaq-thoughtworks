@@ -1,6 +1,8 @@
 # ishaq-thoughtworks
 Created with CodeSandbox
 
+Deployed link : https://ishaq-shaik-thoughtworks.netlify.app/
+
 # Meal Search Application
 
 Welcome to the Meal Search Application! This React-based web app allows users to search for recipes using TheMealDB API. Users can input a meal name to fetch matching recipes, view them in a card format, and explore detailed information about each meal.
