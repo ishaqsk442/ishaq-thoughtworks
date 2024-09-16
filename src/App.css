@@ -84,6 +84,28 @@
   padding: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
+
+.meal-details {
+  position: fixed;
+  top: 50px;
+  left: 50px;
+  width: 70%;
+  height: 100%;
+  background: white;
+  overflow: auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Vertically center the card */
+}
+
+/* .meal-details .card {
+  max-width: 90%;
+  max-height: 90%;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+} */
+
 .show-details {
   background-color: #631e08;
   color: #f69107;
